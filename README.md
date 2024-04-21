@@ -1,5 +1,5 @@
 ## Advice Generator App 
-Essa é uma aplicação JavaScript para aplicar conceitos de requisição GET para uma API 
+Essa é uma aplicação JavaScript para aplicar conceitos de requisição GET para uma API. 
 
 https://guivianx.github.io/advice-generator-app-api/ - acesso rápido
 
